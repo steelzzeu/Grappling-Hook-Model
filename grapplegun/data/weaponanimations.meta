@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WeaponAnimations>
+    <Item>
+        <Name>WEAPON_COMPACTLAUNCHER</Name>
+        <AnimationSet>GTAO_AR_PISTOL</AnimationSet>
+        <MovementClipSet>mov_ped_crouched</MovementClipSet>
+        <CrouchFiringClipSet>combat_crouch</CrouchFiringClipSet>
+        <EquipClipSet>Combat_Equip</EquipClipSet>
+        <SprintClipSet>MP_SPRINT</SprintClipSet>
+        <SprintClipSetOverloaded>MP_SPRINT</SprintClipSetOverloaded>
+    </Item>
+</WeaponAnimations>

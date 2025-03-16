@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WeaponInfoBlob>
+    <WeaponInfo>
+        <Name>WEAPON_COMPACTLAUNCHER</Name>
+        <Model>w_lr_compactgl</Model>
+        <AudioItem>WEAPON_COMPACTLAUNCHER</AudioItem>
+        <Slot>WEAPON_SLOT_HEAVY</Slot>
+        <DamageType>DT_EXPLOSIVE</DamageType>
+        <ExplosionShakeAmp value="1.000000"/>
+        <ClipSize value="1"/>
+        <ReloadTimeMP value="2.500000"/>
+        <AccuracySpread value="1.000000"/>
+        <Range value="50.000000"/>
+        <LockOnRange value="0.000000"/>
+        <WeaponFlags>AllowWhileDead UseGravity</WeaponFlags>
+    </WeaponInfo>
+</WeaponInfoBlob>

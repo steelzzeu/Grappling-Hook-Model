@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WeaponArchetypes>
+    <Item>
+        <Name>WEAPON_COMPACTLAUNCHER</Name>
+        <Model>w_lr_compactgl</Model>
+        <AudioItem>COMPONENT_AT_AR_SUPP_02</AudioItem>
+        <Slot>WEAPON_SLOT_HEAVY</Slot>
+        <DamageType>DT_EXPLOSIVE</DamageType>
+        <ExplosionShakeAmp value="1.000000"/>
+        <HudDamage value="9"/>
+        <HudSpeed value="2"/>
+        <HudCapacity value="1"/>
+        <HudAccuracy value="1"/>
+        <HudRange value="5"/>
+    </Item>
+</WeaponArchetypes>
